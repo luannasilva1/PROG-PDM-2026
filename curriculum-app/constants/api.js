@@ -1,0 +1,1 @@
+export const API = "https://prog-aos-2026-84jd.vercel.app/api";
