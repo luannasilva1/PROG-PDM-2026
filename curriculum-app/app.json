@@ -25,11 +25,17 @@
       },
       "edgeToEdgeEnabled": true
     },
-    "web": {
-      "favicon": "./assets/favicon.png"
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "3930af02-8579-415d-b6f0-0972290d4620"
+      }
     },
-    "plugins": [
-      "expo-router"
-    ]
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/3930af02-8579-415d-b6f0-0972290d4620"
+    }
   }
 }
